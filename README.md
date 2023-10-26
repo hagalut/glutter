@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate with you
-- 📫 How to reach me ...
+- 📫 How to reach me ... just don't
 
 <!---
 izbrannick/izbrannick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
